@@ -1,0 +1,6 @@
+{
+  "name": "FrameMix Photo Grid Studio",
+  "description": "An interactive photo grid filter studio inspired by generative split-frame collage art with real-time effects, shuffle, individual tile painting, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
